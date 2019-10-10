@@ -1,1 +1,1 @@
-# igneous-stats.github.io
+# igneous-analytics.github.io
